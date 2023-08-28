@@ -62,7 +62,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/luis123-code/luis123-code/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
