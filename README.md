@@ -58,7 +58,7 @@
 
 ###
 
-<p align="center">I am from a junior programmer I like to learn new things I am very passionate in what I do....<br><br>- 🔭 I'm doing my internship as junior developers<br>- 📚I am currently studying...<br>- ⚡ In my free time I learn to program and be self-taught...</p>
+<p align="add">I am from a junior programmer I like to learn new things I am very passionate in what I do....<br><br>- 🔭 I'm doing my internship as junior developers<br>- 📚I am currently studying...<br>- ⚡ In my free time I learn to program and be self-taught...</p>
 
 ###
 
