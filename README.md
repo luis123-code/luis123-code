@@ -51,7 +51,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" height="40" alt="axios logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Axios_logo.svg" height="40" alt="axios logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/vuejs/vuex/dev/docs/.vuepress/public/vuex.png" height="40" alt="vuex logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo" />
+  <img width="12" />
+  <img src="https://seeklogo.com/images/V/vue-router-logo-870DD83DF5-seeklogo.com.png" height="40" alt="vue router logo" />
 </div>
 
 ###
