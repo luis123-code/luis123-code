@@ -52,6 +52,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" height="40" alt="axios logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/vuejs/vuex/dev/docs/.vuepress/public/vuex.png" height="40" alt="vuex logo" />
 </div>
 
 
