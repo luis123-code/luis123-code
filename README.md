@@ -54,6 +54,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" height="40" alt="axios logo" />
   <img width="12" />
   <img src="https://somospnt.com/images/blog/cover/131-manejando-estados-con-vuex.png" height="40" alt="vuex logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo" />
 </div>
 
 
